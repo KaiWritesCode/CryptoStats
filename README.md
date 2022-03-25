@@ -2,7 +2,7 @@
 Crypto Market Tracker 
 
 See project here:
-https://therealkai.github.io/CryptoStats/
+https://kaiwritescode.github.io/CryptoStats/
 
 See the top stats and information about the highest ranking cryptocurrencies. This application uses three apis: 
 
